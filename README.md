@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### 🤔 생각하는 개발자
 <!--
 **seongjo-seo/seongjo-seo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
