@@ -12,10 +12,10 @@
 - 👍 상대를 **존중**하고 **칭찬**할 줄 아는 개발자
 
 #
-**👨‍💻 Skill ** [미완]
+**👨‍💻 Skill** [미완]
 
 #
-### BaekJoon
+### 🏆BaekJoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seongjo)](https://solved.ac/seongjo/)
 
 
