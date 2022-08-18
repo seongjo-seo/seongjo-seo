@@ -1,10 +1,8 @@
 
 
-### 안녕하세요~😁 꾸준히 성장하는 Junior Backend Developer 🌱 성조입니다!
+## 안녕하세요~😁 꾸준히 성장하는 Junior Backend Developer 🌱 성조입니다!
 
-[Tech Blog](https://okeybox.tistory.com/)
 
-#
 
 ### 😊 Introduce Myself
 - 🤔 문제 해결을 **생각**하는 개발자
