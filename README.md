@@ -18,7 +18,7 @@
 
 
 <!-- Python -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Python&logoColor=white" alt="Django">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" alt="Django">
 
 
 <!-- JavaScript -->
