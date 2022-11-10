@@ -20,7 +20,7 @@
 
 
 <!-- JavaScript -->
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white" alt="React.js"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white" alt="Express"> <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=Strapi&logoColor=white" alt="Strapi"> <img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=flat-square&logo=JSON Web Tokens&logoColor=white" alt="JSON Web Tokens">
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white" alt="React.js"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white" alt="Express"> <img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=flat-square&logo=JSON Web Tokens&logoColor=white" alt="JSON Web Tokens">
 
 
 <!-- Java -->
