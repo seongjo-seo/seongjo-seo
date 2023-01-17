@@ -11,6 +11,13 @@
 - 👍 상대를 **존중**하고 **칭찬**할 줄 아는 개발자
 
 #
+
+
+### 🏃‍♂️ **Technology in use**
+<img src="https://img.shields.io/badge/Python-CC66FF?style=flat-square&logo=Python&logoColor=white" alt="Python">
+
+#
+
 ### **👨‍💻 Skill**
 
 <!-- Java -->
