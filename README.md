@@ -2,20 +2,6 @@
 
 ## 안녕하세요 ☺ 꾸준히 성장하는 Junior Developer 🌱 성조입니다!
 
-
-
-### 😊 Introduce Myself
-- 🤔 문제 해결을 **생각**하는 개발자
-- 👯 **협업**을 위해 최선을 다하는 개발자
-- 💬 침묵보단 **소통**을 선호하는 개발자
-- 👍 상대를 **존중**하고 **칭찬**할 줄 아는 개발자
-
-#
-
-
-### 🏃‍♂️ **Technology in use**
-<img src="https://img.shields.io/badge/Python-CC66FF?style=flat-square&logo=Python&logoColor=white" alt="Python">
-
 #
 
 ### **👨‍💻 Skill**
